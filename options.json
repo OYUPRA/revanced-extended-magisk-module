@@ -2,22 +2,22 @@
     "patchName" : "Custom package name",
     "options" : [ {
       "key" : "PackageNameYouTube",
-      "value" : "app.rvx.android.youtube"
+      "value" : "com.youtube"
     }, {
       "key" : "PackageNameYouTubeMusic",
-      "value" : "app.rvx.android.apps.youtube.music"
+      "value" : "com.youtube.music"
     } ]
   }, {
     "patchName" : "Custom branding icon YouTube",
     "options" : [ {
       "key" : "AppIcon",
-      "value" : "Revancify Blue"
+      "value" : "YouTube"
     } ]
   }, {
     "patchName" : "Custom branding name YouTube",
     "options" : [ {
       "key" : "AppName",
-      "value" : "ReVanced Extended"
+      "value" : "YouTube"
     } ]
   }, {
     "patchName" : "Custom double tap length",
